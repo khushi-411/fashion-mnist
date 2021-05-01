@@ -1,4 +1,4 @@
-# <font face="Times New Roman"> <center> <b> Dimensionality Reduction Techniques and NLP </b> </center> </font>
+<h1 align = 'center'><b> Dimensionality Reduction Techniques and NLP </b> <h1>
 
 I used fashion-mnist dataset to perform `Dimensionality Reduction Techniques and NLP`. It includes: 
 
